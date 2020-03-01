@@ -19,7 +19,7 @@ function johnLennonFacts() {
   "Harmonica was the first instrument Lennon learned to play"];
   var i = 0;
   while (i < facts.length) {
-  facts.push(facts[i] + "!!!");
+  array2.push(facts[i] + "!!!");
   i++
 }
 return array2;

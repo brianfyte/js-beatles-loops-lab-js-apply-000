@@ -22,7 +22,7 @@ function johnLennonFacts() {
   array2.push(facts[i] + "!!!");
   i++
 }
-return array2;
+return facts;
 }
 
 function iLoveTheBeatles(number) {
